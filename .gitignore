@@ -1,1 +1,5 @@
+# Ignore PyCharm IDE files
 .idea/
+
+# Ignore PyCache
+__pycache__/
