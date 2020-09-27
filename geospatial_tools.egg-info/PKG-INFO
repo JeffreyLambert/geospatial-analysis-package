@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: geospatial-tools
+Version: 0.0.1
+Summary: Geospatial analysis python package example for my portfolio
+Home-page: https://github.com/JeffreyLambert/geospatial-analysis-package
+Author: Jeffrey Lambert
+Author-email: jeffreyrlambert@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6.0
